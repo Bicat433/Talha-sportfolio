@@ -4,7 +4,7 @@ import PageNotFound from './lib/PageNotFound';
 import Layout from './components/layout/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
-import CV from './pages/CV';
+import CV from './pages/Cv';
 import Portfolio from './pages/Portfolio';
 import Skills from './pages/Skills';
 import Creative from './pages/Creative';
