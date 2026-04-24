@@ -40,6 +40,18 @@ const projects = [
     skills: ["Research", "Campaign Strategy", "Cultural Analysis", "Brand Management", "Content Marketing"],
     color: "from-red-600/20 to-purple-600/20",
   },
+  {
+    id: 4,
+    number: "04",
+    title: "Spotlightt",
+    tagline: "Personal Branding for UAE Talent",
+    category: "Brand Strategy & Career Services",
+    image: "https://drive.google.com/thumbnail?id=1UaqInOtlXPGMZmv8oQHcg8TobkE5Sgxi&sz=w2000",
+    description:
+      "The Spotlightt is a personal branding agency designed to help university students and early-career professionals in the UAE build a strong digital presence. The project provides end-to-end services including LinkedIn profile optimization, CV redesign, professional photoshoots, content writing, and interview coaching. It operates primarily online using social media marketing, influencer partnerships, and referral programs for growth, with scalable revenue streams and projected three-year client growth to support expansion into influencer marketing and a global personal branding solution.",
+    skills: ["Personal Branding", "LinkedIn Optimization", "CV Redesign", "Content Writing", "Interview Coaching"],
+    color: "from-sky-600/20 to-indigo-600/20",
+  },
 ];
 
 export default function Portfolio() {
